@@ -1,1 +1,1 @@
-# lienexecutor
+How to use: extract the rar and open the file "LienExecutor.exe", if windows defender detect a virus, is not, just unable it for a moment, download the file again if defender deleted it and then follow the steps again, if you want you can add a exclusion to the file and then active the defender again.
